@@ -1,5 +1,8 @@
 _repo: The-Flowing-Bowl-A-Treatise-on-Drinks-of-All-Kinds-and-of-All-Periods-Interspersed-with-Sundr__57179
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57179-h/images/cover.jpg
 creator:
   author:
     agent_name: Spencer, Edward
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '42100'
     url: http://www.gutenberg.org/2009/agents/42100
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57179#The-Flowing-Bowl-A-Treatise-on-Drinks-of-All-Kinds-and-of-All-Periods-Interspersed-with-Sundr_
 gutenberg_issued: '2018-05-18'
 gutenberg_type: Text
 identifiers:
